@@ -1,0 +1,8 @@
+ROLLUP_ID=2
+CHAIN_ID=2
+ROLLUP_NAME="rollup2"
+EVM_LOADER="7owt77mK72pyJCopjP3Wn7gD8smBvCJWXhwNCrEm95tR"
+TOKEN_MINT="FZt9vd1tfaJQaHH6YjCLyvp9hpPjHHu3htWkcrnb5LXy"
+OPERATORS_WHITELIST=[ "2Ep4TmjmyntWou4SaXbXpkGvwZiefmC5oggEw6bzKZQt" ]
+SOLANA_URL="http://localhost:8899"
+NEON_REVISION="latest"
